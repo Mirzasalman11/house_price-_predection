@@ -1,9 +1,5 @@
-# house_price-_predection
-
-Great! For a house price prediction model, your README file could contain information that helps users understand and utilize your model effectively. Here's an example of what you might include:
-
-House Price Prediction Model
-Description
+#House Price Prediction Model
+#Description
 This project includes a machine learning model that predicts house prices based on various features. It utilizes [mention the algorithm or techniques used].
 
 Installation
