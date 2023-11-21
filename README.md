@@ -10,14 +10,14 @@ This project offers a machine-learning model that predicts house prices based on
 - **Dataset Name**: house price dataset
 - **Data Source**: upload on git .
 - The dataset contains the following attributes:
-  - Feature columns (13): Numerical values representing various health-related features.
+  - Feature columns (13): Numerical values representing various house price-related features.
   - Target column: price of houses.
 
 ## Project Structure
 
 - `README.md`: Documentation of the project.
 - `main.py`: Python script for making diabetes predictions.
-- `data.joblib : weights of transformer used to transfer data before traning.
+- `data.joblib ` : weights of transformer used to transfer data before traning.
 - `model.joblib`: Pre-trained logistic regression model for diabetes prediction.
 
 ## Setup
